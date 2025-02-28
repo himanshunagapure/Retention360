@@ -101,5 +101,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Contact
 
 For queries or collaborations, reach out via:
-Email: himunagapure114@gmail.com
-LinkedIn: https://www.linkedin.com/in/himanshunagapure/
+- Email: himunagapure114@gmail.com
+- LinkedIn: https://www.linkedin.com/in/himanshunagapure/
